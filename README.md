@@ -143,5 +143,5 @@ Navigate to HTTPS End point and select ```Add an Endpoint```
 
 Copy the HTTP Endpoint URL. Use this endpoint in the index.html file.
 
-```index.html```
+```index.html``` \
 Replace the HTTPs endpoint in line 54 in ```index.html``` with the HTTPs endpoint created and save the file. 
