@@ -25,9 +25,11 @@ This movie search application allows you to search lightning fast through a wide
 
 ### Load Sample Data
 Select ... and "Load Sample Dataset
-<img src="./images/image2.png" width="200">  
+![image2](https://github.com/user-attachments/assets/a2cca498-30bd-4f81-82a3-0e9bbd6f0e9c)
+
 
 ### Get Atlas Connection String
-<img src="./images/image3.png">
-<img src="./images/image4.png">
+![image3](https://github.com/user-attachments/assets/fb386e72-a167-4c1c-b25d-9ceed6cad14a)
+![image4](https://github.com/user-attachments/assets/2e955a12-734c-40b6-a618-bd578bc4a61e)
+
 This will be the MongoDB Atlas Connection String. Replace username / password with demo / demo.
