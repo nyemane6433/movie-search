@@ -98,11 +98,11 @@ Create an app services application to use Atlas functions and http endpoints to 
 <img width="978" alt="app_services" src="https://github.com/user-attachments/assets/84232c21-2c79-4af3-a349-d22d4886a38e">
 
 ### Configure App Services Function
-In Atlas App Services, Navigate to ```Functions`` and select ```Create a Function```
+In Atlas App Services, Navigate to ```Functions``` and select ```Create a Function```
 
-#### ```Function Settings```
+```Function Settings```
 <img width="1480" alt="app_services2" src="https://github.com/user-attachments/assets/5aaa21c0-b76c-4405-be30-55d05ab94a31">
 <img width="1438" alt="app_services3" src="https://github.com/user-attachments/assets/db28a438-2b24-4335-978c-f3e616183805">
 
-#### ```Function Edit```
+```Function Edit```
 Copy and past the code in ```movie-search-function.js``` into the function editor. 
