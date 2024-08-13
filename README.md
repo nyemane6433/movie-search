@@ -24,5 +24,10 @@ This movie search application allows you to search lightning fast through a wide
 - Select "Allow Access from Anywhere"
 
 ### Load Sample Data
-- Select ... and "Load Sample Dataset"
+Select ... and "Load Sample Dataset
 <img src="./images/image2.png">  
+
+### Get Atlas Connection String
+<img src="./images/image3.png">
+<img src="./images/image4.png">
+This will be the MongoDB Atlas Connection String. Replace username / password with demo / demo.
