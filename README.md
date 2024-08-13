@@ -29,7 +29,7 @@ Select ... and "Load Sample Dataset
 
 
 ### Get Atlas Connection String
-![image3](https://github.com/user-attachments/assets/fb386e72-a167-4c1c-b25d-9ceed6cad14a)
-![image4](https://github.com/user-attachments/assets/2e955a12-734c-40b6-a618-bd578bc4a61e)
+<img width="845" alt="image3" src="https://github.com/user-attachments/assets/b7aa41ad-1582-45bd-a66e-a9694f195a4e">
+![image4](https://github.com/user-attachments/assets/9a0b0c0a-0ca6-4c2c-9632-4864c735597b)
 
 This will be the MongoDB Atlas Connection String. Replace username / password with demo / demo.
