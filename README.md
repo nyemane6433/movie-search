@@ -42,18 +42,18 @@ This will be the MongoDB Atlas Connection String. Replace username / password wi
 - Database and Collection: sample_mflix.movies
 - Index Name: default
 - Index definition, refer to index.json
-'''
+```
 {
   "mappings": {
     "dynamic": true
   }
 
 }
-'''
+```
 
 ### Search Aggregation Query
 The file search-aggregation.js includes a search aggregation pipeline that uses the search index to query the fullplot, compare partial matching, and highlight the query string. 
-'''
+```
 [
     {
         '$search': {
@@ -86,5 +86,5 @@ The file search-aggregation.js includes a search aggregation pipeline that uses 
         '$limit': 10
     }
 ]
-''''
+```
 
