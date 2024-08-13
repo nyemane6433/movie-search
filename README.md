@@ -145,3 +145,9 @@ Copy the HTTP Endpoint URL. Use this endpoint in the index.html file.
 
 ```index.html``` \
 Replace the HTTPs endpoint in line 54 in ```index.html``` with the HTTPs endpoint created and save the file. 
+
+## Start Searching
+From browser, open index.html file and start testing the movies search application.
+![movies](https://github.com/user-attachments/assets/68c4bfc0-9b57-4f96-8bb8-dd2577a365d7)
+ 
+
