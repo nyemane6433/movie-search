@@ -22,3 +22,7 @@ This movie search application allows you to search lightning fast through a wide
 - Navigate to Network Access
 - Select Add IP Address
 - Select "Allow Access from Anywhere"
+
+### Load Sample Data
+- Select ... and "Load Sample Dataset"
+<img src="./images/image2.png">  
