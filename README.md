@@ -41,7 +41,7 @@ This will be the MongoDB Atlas Connection String. Replace username / password wi
 - Create Atlas Search index using json editor
 - Database and Collection: sample_mflix.movies
 - Index Name: default
-- Index definition, refer to index.json
+- Index definition, refer to ```index.json```
 ```
 {
   "mappings": {
@@ -52,7 +52,7 @@ This will be the MongoDB Atlas Connection String. Replace username / password wi
 ```
 
 ### Search Aggregation Query
-The file search-aggregation.js includes a search aggregation pipeline that uses the search index to query the fullplot, compare partial matching, and highlight the query string. 
+The file ```search-aggregation.js``` includes a search aggregation pipeline that uses the search index to query the fullplot, compare partial matching, and highlight the query string. 
 ```
 [
     {
