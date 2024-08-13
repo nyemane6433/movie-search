@@ -22,3 +22,12 @@ This movie search application allows you to search lightning fast through a wide
 - Navigate to Network Access
 - Select Add IP Address
 - Select "Allow Access from Anywhere"
+
+### Load Sample Data
+Select ... and "Load Sample Dataset
+<img src="./images/image2.png" width="200">  
+
+### Get Atlas Connection String
+<img src="./images/image3.png">
+<img src="./images/image4.png">
+This will be the MongoDB Atlas Connection String. Replace username / password with demo / demo.
