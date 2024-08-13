@@ -29,5 +29,8 @@ Select ... and "Load Sample Dataset
 
 
 ### Get Atlas Connection String
-
+- Select "Connect"
+- Select "Drivers"
+- Select "Node.js" and Select Node.js driver version from drop down
+- Connection String format: mongodb+srv://<username>:<password>@<host_name>/?retryWrites=true&w=majority&appName=demo
 This will be the MongoDB Atlas Connection String. Replace username / password with demo / demo.
