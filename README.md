@@ -133,3 +133,12 @@ exports = function(payload) {
         ]).toArray();
   };
 ```
+
+### Configure App Services HTTPS Endpoint
+Navigate to HTTPS End point and select ```Add an Endpoint``` \
+
+![http_endpoint1](https://github.com/user-attachments/assets/34ef0d41-cb39-4cb9-91fd-5d5219466f3a)
+![http_endpoint2](https://github.com/user-attachments/assets/1a09fff4-0516-4d16-a363-25bf5ea60b13)
+![http_endpoint3](https://github.com/user-attachments/assets/28d85211-999d-4a5e-bce1-7245c7c6da38)
+
+
