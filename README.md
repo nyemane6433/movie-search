@@ -25,7 +25,7 @@ This movie search application allows you to search lightning fast through a wide
 
 ### Load Sample Data
 Select ... and "Load Sample Dataset
-<img src="./images/image2.png">  
+<img src="./images/image2.png" width="200" height="200">  
 
 ### Get Atlas Connection String
 <img src="./images/image3.png">
